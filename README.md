@@ -1,4 +1,4 @@
-rock paper scissors project 
+rock paper scissors project:-
 
 import random
 
